@@ -22,4 +22,5 @@ Once the app is installed with the new Bundle Identifier, it will have a new IDF
 
 ![Screenshot](Screenshot%202023-04-16%20at%2011.15.23.png)
 
-This app is provided free of charge, solely for the benefit of the client.
+
+### This app is provided free of charge, solely for the benefit of the client.
